@@ -10,3 +10,5 @@ Tools & Services used in this project:
 ![dockerimage](https://github.com/user-attachments/assets/e0de4594-2d4e-42f4-82bc-f6f538b10091)
 CI PipeLine
 ![cipipe](https://github.com/user-attachments/assets/75a49bea-82d9-4b2c-b53a-b1ed7fad9f03)
+CI/CD Pipeline 
+![CIC](https://github.com/user-attachments/assets/09601dab-3e6f-4d6b-bd7b-65b3a096f74b)
