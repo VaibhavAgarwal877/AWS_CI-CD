@@ -7,3 +7,4 @@ Tools & Services used in this project:
   : Docker HUb: For storing the docker images
   : EC2: For deploying the application with the help of agent to automate the deployment.
   : AWS System Manger: For storing the credentials of Docker Hub.
+![dockerimage](https://github.com/user-attachments/assets/e0de4594-2d4e-42f4-82bc-f6f538b10091)
